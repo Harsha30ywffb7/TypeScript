@@ -34,3 +34,4 @@ let crocodile: Mammal = {
 type ranbir = Animal | Mammal;
 
 console.log(crocodile.name)
+console.log(crocodile.age)

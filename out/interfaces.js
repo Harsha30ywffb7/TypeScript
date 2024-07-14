@@ -12,3 +12,4 @@ let crocodile = {
     life: "water and land"
 };
 console.log(crocodile.name);
+console.log(crocodile.age);
